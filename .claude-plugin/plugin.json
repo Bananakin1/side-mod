@@ -1,0 +1,9 @@
+{
+  "name": "side-chat",
+  "version": "0.1.0",
+  "description": "Ephemeral side conversation in a pane: forks the main thread for each question, never written to its history",
+  "author": {
+    "name": "Bananakin1"
+  },
+  "types": "./types/index.d.ts"
+}

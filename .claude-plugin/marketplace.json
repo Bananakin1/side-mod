@@ -1,0 +1,13 @@
+{
+  "name": "side-mod",
+  "description": "side-chat: an ephemeral side conversation pane for Claude Code",
+  "owner": {
+    "name": "Bananakin1"
+  },
+  "plugins": [
+    {
+      "name": "side-chat",
+      "source": "./"
+    }
+  ]
+}
